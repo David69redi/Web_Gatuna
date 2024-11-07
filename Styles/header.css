@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  align-items: center;
+  /* border: 3px solid rgb(255, 0, 0); */
+
+  .texto-encabezado {
+    width: 100%;
+    text-align: center;
+    /* border: 3px solid blue; */
+  }
+
+  img {
+    width: 100px;
+  }
+}

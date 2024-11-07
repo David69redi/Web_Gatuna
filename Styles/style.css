@@ -1,0 +1,17 @@
+@import "./header.css";
+@import "./aside.css";
+@import "./mainSection.css";
+@import "./carta.css";
+@import "./footer.css";
+@import "./reset.css";
+
+* {
+  font-family: monospace, bold;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}

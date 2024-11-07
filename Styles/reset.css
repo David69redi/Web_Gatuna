@@ -1,0 +1,9 @@
+/* CSS RESET June 2024 */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+}
